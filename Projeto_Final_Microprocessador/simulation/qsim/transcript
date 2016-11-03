@@ -1,0 +1,44 @@
+# do Projeto_Final_Microprocessador.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 20:35:19 on Nov 03,2016
+# vlog -work work Projeto_Final_Microprocessador.vo 
+# -- Compiling module Projeto_Final_Microprocessador
+# 
+# Top level modules:
+# 	Projeto_Final_Microprocessador
+# End time: 20:35:19 on Nov 03,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 20:35:19 on Nov 03,2016
+# vlog -work work teste_final_microprocessador.vwf.vt 
+# -- Compiling module Projeto_Final_Microprocessador_vlg_vec_tst
+# 
+# Top level modules:
+# 	Projeto_Final_Microprocessador_vlg_vec_tst
+# End time: 20:35:19 on Nov 03,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -novopt -c -t 1ps -L cycloneive_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver work.Projeto_Final_Microprocessador_vlg_vec_tst -voptargs=""+acc"" 
+# Start time: 20:35:19 on Nov 03,2016
+# Loading work.Projeto_Final_Microprocessador_vlg_vec_tst
+# Loading work.Projeto_Final_Microprocessador
+# Loading cycloneive_ver.cycloneive_io_obuf
+# Loading cycloneive_ver.cycloneive_io_ibuf
+# Loading altera_ver.dffeas
+# Loading cycloneive_ver.cycloneive_clkctrl
+# Loading cycloneive_ver.cycloneive_mux41
+# Loading cycloneive_ver.cycloneive_ena_reg
+# Loading cycloneive_ver.cycloneive_lcell_comb
+# Loading cycloneive_ver.cycloneive_ram_block
+# Loading cycloneive_ver.cycloneive_ram_register
+# Loading cycloneive_ver.cycloneive_ram_pulse_generator
+# SDF 10.4d Compiler 2015.12 Dec 30 2015
+# Loading instances from Projeto_Final_Microprocessador_v.sdo
+# Loading altera_ver.PRIM_GDFF_LOW
+# Loading timing data from Projeto_Final_Microprocessador_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /Projeto_Final_Microprocessador_vlg_vec_tst File: teste_final_microprocessador.vwf.vt
+# ** Note: $finish    : teste_final_microprocessador.vwf.vt(63)
+#    Time: 1 us  Iteration: 0  Instance: /Projeto_Final_Microprocessador_vlg_vec_tst
+# End time: 20:35:19 on Nov 03,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

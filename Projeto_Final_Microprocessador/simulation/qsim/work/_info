@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/leandro/Documentos/Projeto_Final_Microprocessador/simulation/qsim
+vProjeto_Final_Microprocessador
+Z1 !s110 1478216119
+!i10b 1
+!s100 7C[6X:i5cG=HikKU_2KQ82
+Ie40P0E2F:zQN6:iZNKlze3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1478216117
+8Projeto_Final_Microprocessador.vo
+FProjeto_Final_Microprocessador.vo
+L0 32
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z4 !s108 1478216119.000000
+!s107 Projeto_Final_Microprocessador.vo|
+!s90 -work|work|Projeto_Final_Microprocessador.vo|
+!i113 1
+Z5 o-work work
+n@projeto_@final_@microprocessador
+vProjeto_Final_Microprocessador_vlg_vec_tst
+R1
+!i10b 1
+!s100 5fz`W_iRZ54TehEHa;f7l0
+Im]@_iTOa:gWB6Bf@7T0HO2
+R2
+R0
+w1478216115
+8teste_final_microprocessador.vwf.vt
+Fteste_final_microprocessador.vwf.vt
+L0 30
+R3
+r1
+!s85 0
+31
+R4
+!s107 teste_final_microprocessador.vwf.vt|
+!s90 -work|work|teste_final_microprocessador.vwf.vt|
+!i113 1
+R5
+n@projeto_@final_@microprocessador_vlg_vec_tst
